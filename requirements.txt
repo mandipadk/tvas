@@ -1,0 +1,4 @@
+pygame
+telethon
+twilio
+python-dotenv

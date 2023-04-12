@@ -1,0 +1,8 @@
+# dotenv environment variables file
+.env
+.env.test
+
+# telegram session files
+session_name.*
+*.session
+*.session-journal
