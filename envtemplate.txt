@@ -1,0 +1,9 @@
+#telegram variables
+api_id = 'id_here' #IMPORTANT : Use your api_id and api_hash by signing at 'https://my.telegram.org/auth'
+api_hash = 'hash_here'
+
+#twilio variables
+account_sid = "sid_here" #get from your  twilio console
+auth_token = "token_here" #get from your  twilio console
+twiliofrom = ""  #add your twilio number here
+twilioto = ""  #add your own number here
